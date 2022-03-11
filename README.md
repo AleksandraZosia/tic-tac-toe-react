@@ -1,3 +1,7 @@
+Tic-Tac-Toe game in react
+
+This is the tic-tac-toe game from react documentation. I'm starting to learn react and want to keep it well documented.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
